@@ -4,7 +4,6 @@
 ## Table of Contents
 
 * [About The Project](#about-the-project)
-* [Features](#features)
 * [Technologies Used](#technologies-used)
 
 <!-- ABOUT THE PROJECT -->
@@ -26,4 +25,4 @@ Water with potability 1 is classified as bad else is good.
 
 * Python
 * Sklearn
-* Matplotlib - a comprehensive library for creating static, animated, and interactive visualizations in Python
+* Nummpy and Pandas library
